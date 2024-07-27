@@ -46,6 +46,8 @@ public class smartanimal
 
         ModBlocks.register(modEventBus);*/
 
+        // this up here are tests thing for the mod plese do not use this for source
+
         // Register the commonSetup method for modloading
         modEventBus.addListener(this::commonSetup);
 
